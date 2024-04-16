@@ -17,7 +17,7 @@ Control LED brightness with ESP8266! This IoT project uses a push button to cycl
 
 ## Circuit Diagram
 
-![Circuit Diagram](link_to_image)
+[![Circuit Diagram](link_to_image)](https://github.com/tfkiot/esp8266-potentiometer-button-led-control/blob/main/circuit_diagram.png)
 
 ## Installation
 
